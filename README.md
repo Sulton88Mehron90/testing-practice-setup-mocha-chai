@@ -1,4 +1,4 @@
-# Our First Tests
+# testing-practice-setup-mocha-chai
 
 ## Set up:
 1. `clone` down the repo
@@ -7,7 +7,7 @@
 4. run `npm test` to run tests
 
 
-# Checks for Understanding
+## Checks for Understanding
 1. Difference between Mocha and Chai:
 
 Mocha and Chai are both testing libraries in JavaScript, but they serve different purposes.
